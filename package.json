@@ -21,6 +21,7 @@
     "@screens/google-calendar": "file:./screens/google-calendar/",
     "@screens/memos-calendar": "file:./screens/memos-calendar/",
     "@screens/photo-library": "file:./screens/photo-library/",
+    "@screens/signup": "file:./screens/signup/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
