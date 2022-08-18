@@ -1236,7 +1236,10 @@
 "@screens/google-calendar@file:./screens/google-calendar":
   version "1.0.0"
 
-"@screens/memos-calendar@file:./screens/memos-calendar/":
+"@screens/memos-calendar@file:./screens/memos-calendar":
+  version "1.0.0"
+
+"@screens/photo-library@file:./screens/photo-library/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

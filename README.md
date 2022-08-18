@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-google-calendar](screens/google-calendar)
 - [screen-memos-calendar](screens/memos-calendar)
+- [screen-photo-library](screens/photo-library)
 
 # Getting started: Frontend
 
