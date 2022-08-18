@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-memos-calendar](screens/memos-calendar)
 - [screen-photo-library](screens/photo-library)
 - [react-native-push-notifications](modules/push-notifications)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
