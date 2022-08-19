@@ -71,7 +71,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-list-view](screens/appointment-list)
 - [screen-appointment-calendar](screens/appointment-calendar)
 - [react-native-splash](modules/splash)
-- [react-native-app-menu](modules/app-menu)
 - [react-native-chat](modules/chat)
 - [screen-activity-feed](screens/activity-feed)
 

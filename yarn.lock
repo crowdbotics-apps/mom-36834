@@ -1025,9 +1025,6 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@modules/app-menu@file:./modules/app-menu":
-  version "1.0.0"
-
 "@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
@@ -1291,7 +1288,7 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
-"@screens/activity-feed@file:./screens/activity-feed/":
+"@screens/activity-feed@file:./screens/activity-feed":
   version "1.0.0"
 
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
