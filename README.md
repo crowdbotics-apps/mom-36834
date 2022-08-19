@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [screen-signup](screens/signup)
 - [screen-about-the-app](screens/about-the-app)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
