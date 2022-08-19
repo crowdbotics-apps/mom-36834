@@ -1277,7 +1277,10 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
-"@screens/appointment-list@file:./screens/appointment-list/":
+"@screens/appointment-calendar@file:./screens/appointment-calendar/":
+  version "1.0.0"
+
+"@screens/appointment-list@file:./screens/appointment-list":
   version "1.0.0"
 
 "@screens/google-calendar@file:./screens/google-calendar":
